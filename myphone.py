@@ -1,0 +1,1 @@
+number = '+62823' #ISI DENGAN NOMOR TARGET
